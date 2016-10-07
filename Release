@@ -1,0 +1,8 @@
+Origin: NM4hdi Repo
+Label: NM4hdi Repo
+Suite: stable
+version: 1.0
+codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: NM4hdi Repo Description

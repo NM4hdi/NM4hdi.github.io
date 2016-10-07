@@ -1,0 +1,8 @@
+Package: com.NM4hdi.8ballpool
+Name: 8ballpool
+Version: 3.6.2-7
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: NM4hdi
+Author: NM4hdi
+Selction: Tweaks
